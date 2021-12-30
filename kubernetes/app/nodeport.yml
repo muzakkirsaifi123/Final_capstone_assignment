@@ -11,4 +11,4 @@ spec:
     app: myapp
   ports:
   - port: 8080
-    nodePort: 31000
+    nodePort: 32400
