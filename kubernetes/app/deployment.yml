@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ahmad33/starter-kit:1.01
+        image: muzakkirsaifi/final_assignment:1.01
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8080
