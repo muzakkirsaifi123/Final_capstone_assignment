@@ -41,7 +41,7 @@ pipeline {
                 }
             steps{
                 // sh 'echo $dockerhub_USR | xargs echo'
-                sh 'docker build -t myimage:${GIT_COMMIT} .'
+                sh 'docker build -t capstone:1.01 .'
             }
         } 
 
