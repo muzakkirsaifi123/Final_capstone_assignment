@@ -1,4 +1,3 @@
-#CI/CD pipeline
 pipeline {
    agent any
 //    tools {
